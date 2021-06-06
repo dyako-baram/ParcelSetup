@@ -1,0 +1,19 @@
+{
+  "name": "parcelsetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "serve": "serve dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "serve": "^11.3.2",
+    "typescript": "^4.3.2"
+  }
+}
