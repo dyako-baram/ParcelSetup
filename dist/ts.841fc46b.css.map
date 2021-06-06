@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass\\style.scss"],"names":[],"mappings":"AAEA;EACI,OAHG","file":"ts.841fc46b.css","sourceRoot":"..\\src","sourcesContent":["$color:blue;\r\n\r\nhtml{\r\n    color:$color;\r\n}"]}
